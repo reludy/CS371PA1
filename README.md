@@ -5,7 +5,7 @@ I have uploaded two files:
   1) pa1_skeleton.c - base assignment
   2) pa1_skeleton_bonus.c - assignment extended for bonus challenge.
 
-I didn't plan to attempt the bonus challenge since I believed it would be too challenging. However, after completing the base assignment, I got a fire burning to attempt the bonus challenge as well.
+I didn't plan to attempt the bonus challenge since I believed it would be too challenging. However, after completing the base assignment, I tried my hardest to attempt the bonus challenge as well. It is not polished code.
 
 My statistics for reference (observed on CloudLab c220g5) :
    pa1_skeleton.c (default parameters):
